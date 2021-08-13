@@ -1,13 +1,9 @@
 <h2 align="left">
- <abc>
-  <br>Hi! / Olá! / Hola! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-    <br>I’m grateful you are here!<br>
-  
- </abc>
+   Hi! / Olá! / Hola! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+   <br>
+   I’m grateful you are here!
 </h2> 
    
-##
-
 <div style="display: inline_block"><br>
    <a href="https://www.linkedin.com/in/douglas-mardegan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:douglasmardegan@yahoo.com.br"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
