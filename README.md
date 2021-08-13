@@ -2,10 +2,13 @@
 
 ##
 
+I’m grateful you are here!
+
 <div style="display: inline_block"><br>
    <a href="https://www.linkedin.com/in/douglas-mardegan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:douglasmardegan@yahoo.com.br"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/douglasmardegan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "https://www.hackerrank.com/douglasmardegan"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
 </div>
 
 ##
