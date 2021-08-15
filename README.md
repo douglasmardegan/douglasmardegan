@@ -26,7 +26,7 @@
 </div>
    
  <h2>
-   :books::books: --> Main skills :computer: 
+   Main hard skills :books::computer: 
  </h2>
 
 <div style="display: inline_block">
