@@ -32,6 +32,6 @@
   <img align="center" alt="CSS icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Javascript icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Node JS icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg">
+  <img align="center" alt="Node JS icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/nodejs-original.svg">
 </div>
 
