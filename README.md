@@ -26,7 +26,7 @@
 </div>
    
  <h2>
-   Main hard skills :books::computer: 
+   :books::computer::books::computer: 
  </h2>
 
 <div style="display: inline_block">
