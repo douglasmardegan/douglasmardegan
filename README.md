@@ -26,7 +26,7 @@
 </div>
    
  <h2>
-   :books::computer::books::computer: 
+   Learning and training :books::computer
  </h2>
 
 <div style="display: inline_block">
