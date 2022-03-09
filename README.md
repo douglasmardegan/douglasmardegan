@@ -25,6 +25,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasmardegan&layout=compact&langs_count=7&theme=dark"/>
 </div>
    
+   
+    <h4>
+      Languages and tools:
+   </h4>
 ##
    
 <div style="display: inline_block">
