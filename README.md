@@ -26,6 +26,7 @@
 </div>
    
    <h3>Languages and tools:</h3>
+   
 ##
    
 <div style="display: inline_block">
