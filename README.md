@@ -34,5 +34,6 @@
   <img align="center" alt="Python icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Node JS icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Git icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/git-original.svg">
+   <img align="center" alt="Git icon" height="40" width="50" src="https://commons.wikimedia.org/wiki/File:Git_icon.svg">
 </div>
 
