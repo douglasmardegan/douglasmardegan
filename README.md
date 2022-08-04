@@ -10,6 +10,7 @@
    </h4>
   <a href="https://instagram.com/douglasmardegan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://www.hackerrank.com/douglasmardegan"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
+  <a href = "https://www.frontendmentor.io/profile/douglasmardegan"><img src="https://camo.githubusercontent.com/d2d12f92f421344e70de6e78333ac07bcac1d11f0ce011c1f33a2ef24a9e6888/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d46726f6e74656e642b4d656e746f7226636f6c6f723d334635344133266c6f676f3d46726f6e74656e642b4d656e746f72266c6f676f436f6c6f723d464646464646266c6162656c3d" target="_blank"></a>
     <h4>
       Professional contacts:
    </h4>
