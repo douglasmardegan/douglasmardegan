@@ -28,6 +28,6 @@
   <img align="center" alt="Python icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Node JS icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Git icon" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
-   <img align="center" alt="C icon" height="40" width="50" src="[http://commons.wikimedia.org/wiki/File:C_Programming_Language.svg](https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg)">
+   <img align="center" alt="C icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
