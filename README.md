@@ -31,5 +31,7 @@
   <img align="center" alt="C icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Arduino icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="ESP icon" height="40" width="50" src="https://cdn.simpleicons.org/espressif/E7352C">
+  <img align="center" alt="Flutter icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="MQTT icon" height="40" width="50" src="https://cdn.simpleicons.org/mqtt/660066">
 </div>
 
