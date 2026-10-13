@@ -6,8 +6,6 @@
    
 <div style="display: inline_block">
    <h4>
-      You can also follow me on:
-   
       Professional contacts:
    </h4>
   <a href="https://www.linkedin.com/in/douglas-mardegan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
