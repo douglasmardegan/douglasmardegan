@@ -7,6 +7,8 @@
 </div>
 
 ##
+
+## Languages and tools
    
 ### ⚙️ Hardware & IoT
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
