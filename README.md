@@ -6,8 +6,6 @@
   <a href = "mailto:douglasmardegan@yahoo.com.br"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
 </div>
 
-##
-
 <h2>
  Languages and tools
 </h2>
