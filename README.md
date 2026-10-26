@@ -1,9 +1,10 @@
 <div style="display: inline_block">
-   <h2>
-      Professional contacts:
-   </h2>
-  <a href="https://www.linkedin.com/in/douglas-mardegan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:douglasmardegan@yahoo.com.br"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
+<h2>
+Professional contacts:
+</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-mardegan/)
+[![Yahoo](https://img.shields.io/badge/Yahoo-%236001D2.svg?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:seuemail@yahoo.com)
 </div>
 
 <h2>
